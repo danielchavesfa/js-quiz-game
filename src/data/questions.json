@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "difficult": 3,
+    "question": "I've never seen anything like this before",
+    "answer": "Nunca vi nada assim antes"
+  },
+  {
+    "id": 2,
+    "difficult": 1,
+    "question": "What's your name?",
+    "answer": "Qual seu nome?"
+  },
+  {
+    "id": 3,
+    "difficult": 3,
+    "question": "I already have see you in this place",
+    "answer": "Eu já te vi nesse lugar"
+  },
+  {
+    "id": 4,
+    "difficult": 2,
+    "question": "Would you like a piece of cake?",
+    "answer": "Gostaria de um pedaço de bolo?"
+  }
+]
